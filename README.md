@@ -17,6 +17,7 @@ Assignments for EE5731 AY24/25 Sem1, including 2 projects:
 * Language: Python
 * Lucas-Kanade and Horn-Schunck algorithms
 * Video enhancement
-* Optical flow estimation for objects with different velocities.
+* Optical flow estimation for objects with different velocities
+* **Optional: Pyramidal implementation of the LK optical flow
 
   
