@@ -11,6 +11,9 @@ Assignments for EE5731 AY24/25 Sem1, including 2 projects:
 * 8 keypoint method
 * Image enhancement methods
 * Fundamental matrix and epipolar lines
+<img width="742" height="540" alt="image" src="https://github.com/user-attachments/assets/979d3798-42ea-4135-a782-cfc4401bb783" />
+<img width="720" height="501" alt="image" src="https://github.com/user-attachments/assets/579f79c8-14b4-40c8-be2e-9a6c2df803d5" />
+
 
 ## CA2. Exploring Optical Flow Estimation from Dark Videos
 
